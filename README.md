@@ -1,2 +1,2 @@
 # Multiple-sensor-Telemetry-system
-Real-time telemetry system using BMP280, DHT11, MPU6050, and NEO-6M GPS for environmental, motion, and location data logging.
+This project focuses on the development of a Multiple Sensor Telemetry System that is capable of collecting real-time data related to environmental conditions, motion, and location using different sensors. The main aim of the system is to continuously monitor and record useful data, which can be used for applications such as environmental monitoring, vehicle tracking, and IoT-based data logging. By integrating multiple sensors into a single system, the project provides an efficient and reliable solution for real-time monitoring and analysis..
